@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcecb670-0fd8-4b23-8b45-b975488b640c" name="Default Changelist" comment="" />
+    <list default="true" id="62b74e41-aeb3-470c-93b9-495bedd8ac13" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="eleMeAdmin" />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1fkgNGlkgi6VFRGAViSaYUt4F1l" />
+  <component name="ProjectId" id="1fsvvdpm3vuTiy1a3lIBOF03q2D" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,16 +22,32 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\elme\elemeAdmin\eleMeAdmin" />
-      <recent name="D:\elme\elemeAdmin\eleMeAdmin\src" />
+      <recent name="D:\elme\elemeAdmin\elmwanzhengban" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ElmAdmin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EleMe.ElmAdmin" />
+      <module name="elmwanzhengban" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EleMe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ElmAdmin" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -53,18 +66,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fcecb670-0fd8-4b23-8b45-b975488b640c" name="Default Changelist" comment="" />
-      <created>1596767462249</created>
+      <changelist id="62b74e41-aeb3-470c-93b9-495bedd8ac13" name="Default Changelist" comment="" />
+      <created>1597019847134</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1596767462249</updated>
-      <workItem from="1596767465584" duration="916000" />
-      <workItem from="1596768654810" duration="268000" />
-      <workItem from="1596769062432" duration="155000" />
-      <workItem from="1596769272995" duration="295000" />
-      <workItem from="1596769582458" duration="54000" />
-      <workItem from="1596771489073" duration="11000" />
-      <workItem from="1596783479558" duration="376000" />
+      <updated>1597019847134</updated>
+      <workItem from="1597019850643" duration="773000" />
+      <workItem from="1597021573208" duration="573000" />
     </task>
     <servers />
   </component>
@@ -72,21 +80,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="25" key="#Project_Structure" timestamp="1596767614404">
+    <state width="1323" height="124" key="GridCell.Tab.0.bottom" timestamp="1597022145705">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1596767614404" />
-    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1596769566625">
+    <state width="1323" height="124" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597022145705" />
+    <state width="1323" height="124" key="GridCell.Tab.0.center" timestamp="1597022145705">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596769566625" />
-    <state x="186" y="0" key="SettingsEditor" timestamp="1596769634931">
+    <state width="1323" height="124" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597022145705" />
+    <state width="1323" height="124" key="GridCell.Tab.0.left" timestamp="1597022145704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596769634931" />
-    <state x="57" y="0" key="new project wizard" timestamp="1596767671320">
+    <state width="1323" height="124" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597022145704" />
+    <state width="1323" height="124" key="GridCell.Tab.0.right" timestamp="1597022145705">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1596767671320" />
+    <state width="1323" height="124" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597022145705" />
   </component>
 </project>
